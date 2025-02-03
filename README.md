@@ -48,5 +48,4 @@ This is a simple React application that displays a random dog image fetched from
 
 Deployment
 You can view the live app on Vercel at :-
-random-dog-image-application-9r8dsyjpc.vercel.app
-
+random-dog-image-application.vercel.app
